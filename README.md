@@ -8,7 +8,8 @@ Built with HTML, CSS, SASS by Jonas Schmedtmann Advanced Advanced CSS and Sass: 
 1. Clone the repo
 
 ```sh
-git clone https://github.com/acelyavul/natours_jonas_schmedtmann-.git
+git clone https://github.com/acelyavul/natours_jonas_schmedtmann-.git![127 0 0 1_5501_index html (1)](https://user-images.githubusercontent.com/88436030/151719440-4b8c6d72-ad62-45c8-a935-51f4c0de66f3.jpeg)
+
 ```
 
 2. Install all the dependencies inside the project folder
@@ -32,9 +33,6 @@ npm run build:css
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/88436030/145018968-783fe651-7b84-4616-a1b4-109b25727d49.PNG" style="width= 400px"/>
-<img src="https://user-images.githubusercontent.com/88436030/145018982-7dbd5a82-0d2e-4eca-bb90-1ac1bb8f51f6.PNG" style="width= 400px"/>
-
 ## What I've Learned
 
 - 7-1 Sass Architecture 
@@ -45,3 +43,10 @@ npm run build:css
 - Support Older Browsers
 - Art Direction, Density Switching, Resolution Switching
 - Build Process of Sass (Compilation, Concatenation, Prefixing, Compressing)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/88436030/151719407-c554d02a-ba42-4fce-af4a-d151d8d43645.jpeg" style="width= 400px"/>
+<img src="https://user-images.githubusercontent.com/88436030/151719455-5fe0d123-df95-4511-a7a5-f15b75f4c6ae.jpeg" style="width= 50px"/>
+
+
