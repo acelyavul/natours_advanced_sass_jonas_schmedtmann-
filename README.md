@@ -47,6 +47,6 @@ npm run build:css
 <br>
 
 <img src="https://user-images.githubusercontent.com/88436030/151719407-c554d02a-ba42-4fce-af4a-d151d8d43645.jpeg" style="width= 400px"/>
-<img src="https://user-images.githubusercontent.com/88436030/151719455-5fe0d123-df95-4511-a7a5-f15b75f4c6ae.jpeg" style="width= 50px"/>
+
 
 
