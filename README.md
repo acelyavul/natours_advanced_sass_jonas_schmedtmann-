@@ -8,7 +8,7 @@ Built with HTML, CSS, SASS by Jonas Schmedtmann Advanced Advanced CSS and Sass: 
 1. Clone the repo
 
 ```sh
-git clone https://github.com/acelyavul/natours_jonas_schmedtmann-.git![127 0 0 1_5501_index html (1)](https://user-images.githubusercontent.com/88436030/151719440-4b8c6d72-ad62-45c8-a935-51f4c0de66f3.jpeg)
+https://github.com/acelyavul/natours_advanced_sass_jonas_schmedtmann-.git
 
 ```
 
